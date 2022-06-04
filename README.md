@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Subir Parida</h1>
 <h3 align="center">A passionate researcher</h3>
-<! -- <img align="right" alt="Subir" width="400" src="https://drive.google.com/file/d/1zyWLYze6Qic-dHt9iTjzXQQK1HAMQPu9/view?usp=sharing">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subirkumarparida&label=Profile%20views&color=0e75b6&style=flat" alt="subirkumarparida" /> </p>
 
@@ -11,6 +11,75 @@
 - 📫 How to reach me **subirkumarparida@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U651bxJXqQqfWzLAahUlMIxm1qCke1fJ/view?usp=sharing)
+
+<h3 align="left">Experience</h3>
+<ul>
+  <li><b> Senior Consultant</b>, Cloud and Infrastructure Services <br />
+  <b><i> Larsen & Toubro Infotech - Bengaluru </i></b> <br /> 
+    <i> Jul 2020 - Sep 2021 | 1 yr 3 mos </i> <br />
+    Digital Transformation, <br />
+    IT Service Delivery entailing Practice Management, <br />
+    Center of Excellence</li>
+  
+  <li><b> Teaching Assistant</b>, Dept. of Computer Sc. & Engg. <br/>
+    <b><i> Indian Institute of Technology, Tirupati </i></b> <br /> 
+    <i>Aug 2018 - Jul 2020 | 2 yrs </i> <br/> 
+    Teaching Assistant for the undergraduate courses: Computer System Design, C Programming <br/>
+    Assisted the faculty in preparing lesson outlines, plans, and curricula in assigned areas <br/>
+    Designing and setting up of the lab environments</li>
+  
+  <li><b> Assistant System Engineer</b>, <br/>
+    <b><i> Tata Consultancy Services - Hyderabad </i> </b> <br/>
+    <i> Oct 2016 - Jun 2018 | 1 yr 9 mos </i> </br>
+    Supported the IT infrastructure of Applications globally by providing reliable and efficient troubleshooting/monitoring for timely resolution of tickets and ensuring minimum downtime <br/>
+    Acted as a technical liaison between operation teams, project teams, and architects for RCA  <br/>
+    Analyzed health check results and provided feedback  <br/>
+    Worked with Powershell scripts to patch the cloud servers  <br/> </li>
+</ul>
+
+<h3 align="left"> Education </h3>
+<ul>
+  <li><b> M. Tech. in Computer Science and Engineering </b> | CGPA: 8.08/10 <br/>
+    <b><i> Indian Institute of Technology, Tirupati </i></b> | 2018 - 2020 <br />  
+    Key Courses: Advance Computer System Architecture, Advance Data Structure and Algorithms, 
+    Machine Learning for Image Processing, Predictive Data Modelling, Distributed Systems, Cloud Computing </li>
+  
+  <li><b> B. Tech. in Computer Science and Engineering </b> | CGPA: 8.22/10 <br/>
+   <b><i> Indira Gandhi Institute of Technology, Sarang, Odisha </i></b> | 2012 - 2016 <br />  
+   Key Courses: Computer Organization & Architecture, Programming and Data Structures, Algorithms, 
+    Theory of Computation, Compiler Design, Operating Systems, Computer Networks, and Database </li>
+  
+  <li><b> Senior Secondary Education </b> | %age - 76.33% <br/>
+   <b><i> Ravenshaw College, Cuttack, Odisha </i></b> | 2010 - 2012 <br />  
+   Physics, Chemistry, Mathematics, Information Technology </li>
+  
+  <li><b> Secondary Education (CLASS X I.C.S.E) </b> | %age - 90.14% <br/>
+   <b><i> ST. James’ Convent School, Jaleswar, Odisha </i></b> | 2010 <br />  
+   Physics, Chemistry, Mathematics, Information Technology </li>
+
+</ul>
+
+<h3 align="left"> Certifications </h3>
+<ul>
+  <li><b> Certified Datacenter Migration Specialist® (EXIN CDMS)</b>, EXIN EPI  | Score: 93 % <br/>
+    Aug. 2021 <br /> </li>
+  
+  <li><b> LTI Pat on the Back award for outstanding performance, service and dedication</b>, L&T Infotech <br/>
+    Mar. 2021 <br /> </li>
+  
+  <li><b> NPTEL Certification in Embedded Systems Design with ARM</b>, IIT Kharagpur | Score: 95 % <br/>
+  Jun. 2020 <br /> </li>
+  
+  <li><b> NPTEL Certification in Model Checking</b>, CMI Chennai | Score: 89 % <br/>
+  Jun. 2020 <br /> </li>
+  
+  <li><b> NPTEL NPTEL Certification in Ethical Hacking</b>, IIT Kharagpur | Score: 88 % <br/>
+  Dec. 2019 <br /> </li>
+  
+  <li><b> NPTEL Certification in Hardware Modelling using Verilog</b>, IIT Kharagpur | Score: 86 % <br/>
+  Dec. 2019 <br /> </li>
+  
+ </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
