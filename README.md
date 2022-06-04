@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Subir Parida</h1>
 <h3 align="center">A passionate researcher</h3>
-<img align="right" alt="Subir" width="400" src="https://drive.google.com/file/d/1zyWLYze6Qic-dHt9iTjzXQQK1HAMQPu9/view?usp=sharing">
+<! -- <img align="right" alt="Subir" width="400" src="https://drive.google.com/file/d/1zyWLYze6Qic-dHt9iTjzXQQK1HAMQPu9/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subirkumarparida&label=Profile%20views&color=0e75b6&style=flat" alt="subirkumarparida" /> </p>
 
