@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Subir Parida</h1>
-<h3 align="center">A passionate researcher</h3>
+<h3 align="center">Placed in between organizations and technology, I am committed and enthusiastic in what I do</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subirkumarparida&label=Profile%20views&color=0e75b6&style=flat" alt="subirkumarparida" /> </p>
@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **subirkumarparida@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U651bxJXqQqfWzLAahUlMIxm1qCke1fJ/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U651bxJXqQqfWzLAahUlMIxm1qCke1fJ/view?usp=sharing) -->
 
-<h3 align="left">Experience</h3>
+<h2 align="left">Experience</h3>
 <ul>
   <li><b> Senior Consultant</b>, Cloud and Infrastructure Services <br />
   <b><i> Larsen & Toubro Infotech - Bengaluru </i></b> <br /> 
@@ -37,7 +37,7 @@
     Worked with Powershell scripts to patch the cloud servers  <br/> </li>
 </ul>
 
-<h3 align="left"> Education </h3>
+<h2 align="left"> Education </h3>
 <ul>
   <li><b> M. Tech. in Computer Science and Engineering </b> | CGPA: 8.08/10 <br/>
     <b><i> Indian Institute of Technology, Tirupati </i></b> | 2018 - 2020 <br />  
@@ -49,17 +49,17 @@
    Key Courses: Computer Organization & Architecture, Programming and Data Structures, Algorithms, 
     Theory of Computation, Compiler Design, Operating Systems, Computer Networks, and Database </li>
   
-  <li><b> Senior Secondary Education </b> | %age - 76.33% <br/>
+  <li><b> Senior Secondary Education </b> | %age: 76.33% <br/>
    <b><i> Ravenshaw College, Cuttack, Odisha </i></b> | 2010 - 2012 <br />  
    Physics, Chemistry, Mathematics, Information Technology </li>
   
-  <li><b> Secondary Education (CLASS X I.C.S.E) </b> | %age - 90.14% <br/>
+  <li><b> Secondary Education (CLASS X I.C.S.E) </b> | %age: 90.14% <br/>
    <b><i> ST. James’ Convent School, Jaleswar, Odisha </i></b> | 2010 <br />  
    Physics, Chemistry, Mathematics, Information Technology </li>
 
 </ul>
 
-<h3 align="left"> Certifications </h3>
+<h2 align="left"> Certifications </h3>
 <ul>
   <li><b> Certified Datacenter Migration Specialist® (EXIN CDMS)</b>, EXIN EPI  | Score: 93 % <br/>
     Aug. 2021 <br /> </li>
