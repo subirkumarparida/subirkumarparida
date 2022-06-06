@@ -53,9 +53,8 @@
    <b><i> Ravenshaw College, Cuttack, Odisha </i></b> | 2010 - 2012 <br />  
    Physics, Chemistry, Mathematics, Information Technology </li>
   
-  <li><b> Secondary Education (CLASS X I.C.S.E) </b> | %age: 90.14% <br/>
-   <b><i> ST. James’ Convent School, Jaleswar, Odisha </i></b> | 2010 <br />  
-   Physics, Chemistry, Mathematics, Information Technology </li>
+  <li><b> Secondary Education (CLASS-X I.C.S.E) </b> | %age: 90.14% <br/>
+   <b><i> ST. James’ Convent School, Jaleswar, Odisha </i></b> | 2010 </li>
 
 </ul>
 
