@@ -17,6 +17,7 @@
   <li><b> Senior Consultant</b>, Cloud and Infrastructure Services <br />
   <b><i> Larsen & Toubro Infotech - Bengaluru </i></b> <br /> 
     <i> Jul 2020 - Sep 2021 | 1 yr 3 mos </i> <br />
+    DataCenter Migration (VMware ESXi, IBM Power Systems, AWS), <br />
     Digital Transformation, <br />
     IT Service Delivery entailing Practice Management, <br />
     Center of Excellence</li>
@@ -48,13 +49,6 @@
    <b><i> Indira Gandhi Institute of Technology, Sarang, Odisha </i></b> | 2012 - 2016 <br />  
    Key Courses: Computer Organization & Architecture, Programming and Data Structures, Algorithms, 
     Theory of Computation, Compiler Design, Operating Systems, Computer Networks, and Database </li>
-  
-  <li><b> Senior Secondary Education </b> | %age: 76.33% <br/>
-   <b><i> Ravenshaw College, Cuttack, Odisha </i></b> | 2010 - 2012 <br />  
-   Physics, Chemistry, Mathematics, Information Technology </li>
-  
-  <li><b> Secondary Education (CLASS-X I.C.S.E) </b> | %age: 90.14% <br/>
-   <b><i> ST. James’ Convent School, Jaleswar, Odisha </i></b> | 2010 </li>
 
 </ul>
 
