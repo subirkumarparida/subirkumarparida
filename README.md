@@ -42,13 +42,13 @@
 <ul>
   <li><b> M. Tech. in Computer Science and Engineering </b> | CGPA: 8.08/10 <br/>
     <b><i> Indian Institute of Technology, Tirupati </i></b> | 2018 - 2020 <br />  
-    Key Courses: Advance Computer System Architecture, Advance Data Structure and Algorithms, 
+    Key Courses: Advanced Computer System Architecture, Advanced Data Structure and Algorithms, 
     Machine Learning for Image Processing, Predictive Data Modelling, Distributed Systems, Cloud Computing </li>
   
   <li><b> B. Tech. in Computer Science and Engineering </b> | CGPA: 8.22/10 <br/>
    <b><i> Indira Gandhi Institute of Technology, Sarang, Odisha </i></b> | 2012 - 2016 <br />  
    Key Courses: Computer Organization & Architecture, Programming and Data Structures, Algorithms, 
-    Theory of Computation, Compiler Design, Operating Systems, Computer Networks, and Database </li>
+    Theory of Computation, Compiler Design, Operating Systems, Computer Networks, and Database Systems </li>
 
 </ul>
 
@@ -66,7 +66,7 @@
   <li><b> NPTEL Certification in Model Checking</b>, CMI Chennai | Score: 89 % <br/>
   Jun. 2020 <br /> </li>
   
-  <li><b> NPTEL NPTEL Certification in Ethical Hacking</b>, IIT Kharagpur | Score: 88 % <br/>
+  <li><b> NPTEL NPTEL Certification in Ethical Hacking</b>, IIT Kharagpur | Score: 88 % (Top 5% of the batch) <br/>
   Dec. 2019 <br /> </li>
   
   <li><b> NPTEL Certification in Hardware Modelling using Verilog</b>, IIT Kharagpur | Score: 86 % <br/>
