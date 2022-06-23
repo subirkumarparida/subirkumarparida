@@ -20,14 +20,14 @@
     DataCenter Migration (VMware ESXi, IBM Power Systems, AWS), <br />
     Digital Transformation, <br />
     IT Service Delivery entailing Practice Management, <br />
-    Center of Excellence</li>
+    Center of Excellence</li> <br />
   
   <li><b> Teaching Assistant</b>, Dept. of Computer Sc. & Engg. <br/>
     <b><i> Indian Institute of Technology, Tirupati </i></b> <br /> 
     <i>Aug 2018 - Jul 2020 | 2 yrs </i> <br/> 
     Teaching Assistant for the undergraduate courses: Computer System Design, C Programming <br/>
     Assisted the faculty in preparing lesson outlines, plans, and curricula in assigned areas <br/>
-    Designing and setting up of the lab environments</li>
+    Designing and setting up of the lab environments</li> <br />
   
   <li><b> Assistant System Engineer</b>, <br/>
     <b><i> Tata Consultancy Services - Hyderabad </i> </b> <br/>
@@ -43,7 +43,7 @@
   <li><b> M. Tech. in Computer Science and Engineering </b> | CGPA: 8.08/10 <br/>
     <b><i> Indian Institute of Technology, Tirupati </i></b> | 2018 - 2020 <br />  
     Key Courses: Advanced Computer System Architecture, Advanced Data Structure and Algorithms, 
-    Machine Learning for Image Processing, Predictive Data Modelling, Distributed Systems, Cloud Computing </li>
+    Machine Learning for Image Processing, Predictive Data Modelling, Distributed Systems, Cloud Computing </li> <br />
   
   <li><b> B. Tech. in Computer Science and Engineering </b> | CGPA: 8.22/10 <br/>
    <b><i> Indira Gandhi Institute of Technology, Sarang, Odisha </i></b> | 2012 - 2016 <br />  
