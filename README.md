@@ -57,7 +57,7 @@
   <li><b> Certified Datacenter Migration Specialist® (EXIN CDMS)</b>, EXIN EPI  | Score: 93 % <br/>
     Aug. 2021 <br /> </li>
   
-  <li><b> LTI Pat on the Back award for outstanding performance, service and dedication</b>, L&T Infotech <br/>
+  <li><b> LTI PoB award for outstanding performance, service and dedication</b>, L&T Infotech <br/>
     Mar. 2021 <br /> </li>
   
   <li><b> NPTEL Certification in Embedded Systems Design with ARM</b>, IIT Kharagpur | Score: 95 % <br/>
