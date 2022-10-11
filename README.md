@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Face Recognition**
 
-- 🌱 I’m currently learning **Computer Vision**
-
 - 📫 How to reach me **subirkumarparida@gmail.com**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U651bxJXqQqfWzLAahUlMIxm1qCke1fJ/view?usp=sharing) -->
