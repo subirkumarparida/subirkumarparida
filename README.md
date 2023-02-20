@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subirkumarparida&label=Profile%20views&color=0e75b6&style=flat" alt="subirkumarparida" /> </p>
 
-- 🔭 I’m currently working on **Face Recognition from video for Surveillance Scenarios**
+- 🔭 I’m currently researching on **Face Recognition from video for Surveillance Scenarios**
 
-- 📫 How to reach me **subirkumarparida@gmail.com**
+- 📫 How to reach me **subirkumarparida@gmail.com**/**subirkp@barc.gov.in**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U651bxJXqQqfWzLAahUlMIxm1qCke1fJ/view?usp=sharing) -->
 
