@@ -12,13 +12,12 @@
 
 <h2 align="left">Experience</h3>
 <ul>
-  <li><b> Senior Consultant</b>, Cloud and Infrastructure Services <br />
+  <li><b> Senior Consultant</b>, Cloud and Infrastructure Services & Center of Excellence <br />
   <b><i> Larsen & Toubro Infotech - Bengaluru </i></b> <br /> 
     <i> Jul 2020 - Sep 2021 | 1 yr 3 mos </i> <br />
     DataCenter Migration (VMware ESXi, IBM Power Systems, AWS), <br />
     Digital Transformation, <br />
-    IT Service Delivery entailing Practice Management, <br />
-    Center of Excellence</li> <br />
+    IT Service Delivery entailing Practice Management</li> <br />
   
   <li><b> Teaching Assistant</b>, Dept. of Computer Sc. & Engg. <br/>
     <b><i> Indian Institute of Technology, Tirupati </i></b> <br /> 
