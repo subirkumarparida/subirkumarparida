@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subirkumarparida&label=Profile%20views&color=0e75b6&style=flat" alt="subirkumarparida" /> </p>
 
-- 🔭 I’m currently researching on **Face Recognition from video for Surveillance Scenarios**
+- 🔭 My research focuses on machine learning and computer vision applied to face recognition in video, biases in and fairness of FR models
+<!-- - 🔭 I’m currently researching on **Face Recognition from video for Surveillance Scenarios** -->
 
 - 📫 How to reach me **subirkumarparida@gmail.com** / **subirkp@barc.gov.in**
 
