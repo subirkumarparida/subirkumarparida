@@ -1,10 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Subir Parida</h1>
-<h3 align="center">Placed in between organizations and technology, I am committed and enthusiastic in what I do</h3>
-
+<h3 align="center"> My research focuses on Machine Learning and Computer Vision applied to Face Recognition in Video, biases in and fairness of FR models </h3>
+<!-- Placed in between organizations and technology, I am committed and enthusiastic in what I do -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subirkumarparida&label=Profile%20views&color=0e75b6&style=flat" alt="subirkumarparida" /> </p>
 
-- 🔭 My research focuses on machine learning and computer vision applied to face recognition in video, biases in and fairness of FR models
 <!-- - 🔭 I’m currently researching on **Face Recognition from video for Surveillance Scenarios** -->
 
 - 📫 How to reach me **subirkumarparida@gmail.com** / **subirkp@barc.gov.in**
