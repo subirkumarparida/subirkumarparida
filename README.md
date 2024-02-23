@@ -15,10 +15,10 @@
   <li><b> Senior Consultant</b>, Cloud and Infrastructure Services & Center of Excellence <br />
   <b><i> Larsen & Toubro Infotech - Bengaluru </i></b> <br /> 
     <i> Jul 2020 - Sep 2021 | 1 yr 3 mos </i> <br />
+    SME (Subject Matter Expert) - Active Directory, VMWare ESXi
     DataCenter Migration (VMware ESXi, IBM Power Systems, AWS), <br />
-    Digital Transformation, <br />
-    IT Service Delivery entailing Practice Management</li> <br />
-  
+    Digital Transformation </li> <br />
+    
   <li><b> Teaching Assistant</b>, Dept. of Computer Sc. & Engg. <br/>
     <b><i> Indian Institute of Technology, Tirupati </i></b> <br /> 
     <i>Aug 2018 - Jul 2020 | 2 yrs </i> <br/> 
@@ -31,7 +31,6 @@
     <i> Oct 2016 - Jun 2018 | 1 yr 9 mos </i> </br>
     Supported the IT infrastructure of Applications globally by providing reliable and efficient troubleshooting/monitoring for timely resolution of tickets and ensuring minimum downtime <br/>
     Acted as a technical liaison between operation teams, project teams, and architects for RCA  <br/>
-    Analyzed health check results and provided feedback  <br/>
     Worked with Powershell scripts to patch the cloud servers  <br/> </li>
 </ul>
 
