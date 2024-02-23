@@ -15,7 +15,7 @@
   <li><b> Senior Consultant</b>, Cloud and Infrastructure Services & Center of Excellence <br />
   <b><i> Larsen & Toubro Infotech - Bengaluru </i></b> <br /> 
     <i> Jul 2020 - Sep 2021 | 1 yr 3 mos </i> <br />
-    SME (Subject Matter Expert) - Active Directory, VMWare ESXi
+    SME (Subject Matter Expert) - Active Directory, VMWare ESXi, <br />
     DataCenter Migration (VMware ESXi, IBM Power Systems, AWS), <br />
     Digital Transformation </li> <br />
     
